@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{101:function(n){n.exports=JSON.parse('{"allTagsPath":"/tailwindindonesia/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/tailwindindonesia/blog/tags/hello"}')}}]);
